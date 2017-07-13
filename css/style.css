@@ -17,6 +17,10 @@ body{
   color: #ffaf7d;
   padding: 1%;
 }
+#getMessage{
+  color: #ffffff;
+  background-color: #ffaf7d;
+}
 blockquote{
   font-size: 22px;
 }
