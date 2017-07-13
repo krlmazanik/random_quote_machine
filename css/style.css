@@ -1,0 +1,25 @@
+body{
+  background-color: #ffaf7d;
+}
+
+/*Custom colors created by https://www.sessions.edu/color-calculator/*/
+/*4 colors represent tetradic harmony*/
+.custom{
+  background-color: #7dbaff; /*light Blue*/
+  background-color: #e17dff; /*Light Violet*/
+  background-color: #fff07d;  /*Light Yellow*/
+}
+#window{
+  width: 50%;
+  margin-top: 16%;
+  background-color: #ffffff;
+  border-radius: 2%;
+  color: #ffaf7d;
+  padding: 1%;
+}
+blockquote{
+  font-size: 22px;
+}
+footer{
+  color: inherit !important;
+}
