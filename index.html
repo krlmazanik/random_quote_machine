@@ -8,6 +8,7 @@
   <title>Random Quote Machine</title>
   <link href="css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 
 <body>
@@ -17,11 +18,17 @@
         <p id="quote"></p>
         <footer id="author"></footer>
       </blockquote>
-      <div class="text-center pull-right">
-        <button id="getMessage" class="btn">
+      <!-- Row for twitter share button and get new quote button -->
+      <div class="row">
+        <div class="pull-left" id="tweet">
+          <i class="fa fa-twitter-square" style="font-size:36px"></i>
+        </div>
+        <div class="text-center pull-right">
+          <button id="getMessage" class="btn">
           New Quote
-        </button>
-      </div>
+          </button>
+        </div>
+      </div> <!-- row -->
     </div>
   </div>
 
@@ -30,7 +37,6 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
   <script src="js/bootstrap.min.js"></script>
   <script src="js/app.js">
-
   </script>
 </body>
 
