@@ -2,6 +2,20 @@
 
 I build this project as a challenge on FreeCodeCamp.
 
+Visual representation of this project can be found here: https://codepen.io/krlmazanik/full/XgQMYE/
+
+---
+
+For this project I was using:
+* HTML/CSS/JavaScript.
+* Bootstrap.
+* jQuery and jQuery-color libraries.
+
+The project is based on forismatic api(https://forismatic.com/en/api/), which provides random quote.
+
+Also, it was added Twitter integration, to share a quote on twitter.com
+
+---
 
 Here I am trying to build A Random-Quote-Machine as a challenge for freecodecamp.com
 
