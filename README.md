@@ -1,3 +1,8 @@
+# Random Quote Machine
+
+I build this project as a challenge on FreeCodeCamp.
+
+
 Here I am trying to build A Random-Quote-Machine as a challenge for freecodecamp.com
 
 The objectives are:
